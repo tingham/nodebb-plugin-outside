@@ -1,0 +1,6 @@
+{
+    "name": "nodebb-plugin-outside",
+    "version": "0.0.1",
+    "description": "Makes anchor links open in a new window.",
+    "main": "outside.js"
+}

@@ -1,0 +1,10 @@
+~$*.xlsx
+env/
+.env/
+.DS_Store
+.*~
+*.swp
+node_modules
+*.local*
+logs/*
+*.pyc

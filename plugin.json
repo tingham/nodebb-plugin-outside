@@ -1,0 +1,9 @@
+{
+    "id": "nodebb-plugin-outside",
+    "name": "Outside",
+    "description": "Makes anchor links open in new windows / tabs.",
+    "library": "./outside.js",
+    "hooks": [
+        {"hook": "filter:messaging.parse", "method": "outsidify", "callbacked": true}
+    ]
+}
