@@ -2,5 +2,23 @@
     "name": "nodebb-plugin-outside",
     "version": "0.0.1",
     "description": "Makes anchor links open in a new window.",
-    "main": "outside.js"
+    "main": "outside.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tingham/nodebb-plugin-outside"
+    },
+    "keywords": [
+        "nodebb",
+        "plugin",
+        "links",
+        "anchors"
+    ],
+    "author": {
+        "name": "Thomas Ingham",
+        "email": "tingham@mac.com"
+    },
+    "bugs": {
+        "url": "https://github.com/tingham/nodebb-plugin-outside/issues"
+    },
+    "readmeFilename": "README.md"
 }
